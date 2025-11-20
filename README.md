@@ -16,6 +16,16 @@ The table contains the following fields:
 - **Profit** – Profit earned from the sale.
 - **Revenue_per_unit** – Revenue generated per unit sold.
 - **Markup** – Price increase over cost.
+  
+Dashboard :
+
+![Image Alt](https://github.com/ShanujaSaliya/Chocolate-Analytics-SQL-PowerBI/blob/be15370ab3d1f5a7bcbe3bbe0fe0de4de2d67d73/Main%20Page.png)
+
+![Image Alt](https://github.com/ShanujaSaliya/Chocolate-Analytics-SQL-PowerBI/blob/be15370ab3d1f5a7bcbe3bbe0fe0de4de2d67d73/Sale%20Person%20Insights.png)
+
+![Image Alt](https://github.com/ShanujaSaliya/Chocolate-Analytics-SQL-PowerBI/blob/be15370ab3d1f5a7bcbe3bbe0fe0de4de2d67d73/Product%20Insights.png)
+
+![Image Alt](https://github.com/ShanujaSaliya/Chocolate-Analytics-SQL-PowerBI/blob/be15370ab3d1f5a7bcbe3bbe0fe0de4de2d67d73/Map%20%20Visuals.png)
 
 ## 3. 📊 Key Analyses (SQL)
 1. **Top Salesperson by Profit** — Identifies the highest earner across all salespeople.
